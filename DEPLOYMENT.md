@@ -6,7 +6,7 @@
 |-----|----------|
 | Họ và tên | Van Thanh Huy |
 | Mã học viên | 2A202602763 |
-| Repo | https://github.com/thanhhuyvan/K4-L3B-VanThanhHuy-2A202602763-Cloud-Service-And-Deployment |
+| Repo | https://github.com/thanhhuyvan/K4-L3B-DAY12-VanThanhHuy-2A202602763-CloudServicesAndDeployment |
 
 ## Service
 
